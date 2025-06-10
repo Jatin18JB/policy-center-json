@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "siteOrApp": "worldnewscorp.com",
+    "issueLocation": "https://worldnewscorp.com/psg-champions-league-celebration-paris-clashes",
+    "status": "Restricted ad serving",
+    "issues": "Shocking content",
+    "adRequestsLastSevenDays": "3.2",
+    "dateReported": "2025-06-01"
+  }
+]
