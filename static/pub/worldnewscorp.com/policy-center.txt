@@ -6,5 +6,13 @@
     "issues": "Shocking content",
     "adRequestsLastSevenDays": "3.2",
     "dateReported": "2025-06-01"
+  },
+  {
+    "siteOrApp": "worldnewscorp.com",
+    "issueLocation": "https://worldnewscorp.com/psg-champions-league-celebration",
+    "status": "Restricted ad serving",
+    "issues": "Shocking content",
+    "adRequestsLastSevenDays": "3.2",
+    "dateReported": "2025-06-01"
   }
 ]
